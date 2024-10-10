@@ -1,0 +1,2153 @@
+fileFormatVersion: 2
+guid: 706d810ba78206d429b4fc83e2556701
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: add_hammer
+  - first:
+      213: 21300002
+    second: add_bang02
+  - first:
+      213: 21300004
+    second: add_barbeque
+  - first:
+      213: 21300006
+    second: additive_ring_01
+  - first:
+      213: 21300008
+    second: add_fireworks01
+  - first:
+      213: 21300010
+    second: add_smoke
+  - first:
+      213: 21300012
+    second: additive_round_02
+  - first:
+      213: 21300014
+    second: additive_particle04
+  - first:
+      213: 21300016
+    second: add_sphere
+  - first:
+      213: 21300018
+    second: add_sparkle02
+  - first:
+      213: 21300020
+    second: add_spark_soft
+  - first:
+      213: 21300022
+    second: additive_dot_02
+  - first:
+      213: 21300024
+    second: additive_dot_03
+  - first:
+      213: 21300026
+    second: add_smoke_03
+  - first:
+      213: 21300028
+    second: additive_line_01
+  - first:
+      213: 21300030
+    second: add_coin
+  - first:
+      213: 21300032
+    second: add_sparkle
+  - first:
+      213: 21300034
+    second: add_smoke_hard2
+  - first:
+      213: 21300036
+    second: add_light_hor2
+  - first:
+      213: 21300038
+    second: add_spark_hard
+  - first:
+      213: 21300040
+    second: new_elec05
+  - first:
+      213: 21300042
+    second: add_jester
+  - first:
+      213: 21300044
+    second: particle_temp-add_circle_1
+  - first:
+      213: 21300046
+    second: add_cannon
+  - first:
+      213: 21300048
+    second: add_light_blast03
+  - first:
+      213: 21300050
+    second: add_ripple
+  - first:
+      213: 21300052
+    second: add_smoke_hard
+  - first:
+      213: 21300054
+    second: add_hit_blast
+  - first:
+      213: 21300056
+    second: add_light_blast04
+  - first:
+      213: 21300058
+    second: add_lightline
+  - first:
+      213: 21300060
+    second: add_spark_hard2
+  - first:
+      213: 21300062
+    second: add_fireplace01
+  - first:
+      213: 21300064
+    second: add_swipe04
+  - first:
+      213: 21300066
+    second: add_button
+  - first:
+      213: 21300068
+    second: new_elec03
+  - first:
+      213: 21300070
+    second: add_light_hor
+  - first:
+      213: 21300072
+    second: add_sphere02
+  - first:
+      213: 21300074
+    second: additive_flame01
+  - first:
+      213: 21300076
+    second: new_elec04
+  - first:
+      213: 21300078
+    second: add_light_blast01
+  - first:
+      213: 21300080
+    second: additive_round_01
+  - first:
+      213: 21300082
+    second: add_light_ver
+  - first:
+      213: 21300084
+    second: add_arrow
+  - first:
+      213: 21300086
+    second: additive_star_01
+  - first:
+      213: 21300088
+    second: add_jet
+  - first:
+      213: 21300090
+    second: add_fire_blast
+  - first:
+      213: 21300092
+    second: add_lightline02
+  - first:
+      213: 21300094
+    second: additive_ring_02
+  - first:
+      213: 21300096
+    second: add_fireplace_glow
+  - first:
+      213: 21300098
+    second: add_trace_sharp
+  - first:
+      213: 21300100
+    second: add_fireplace02
+  - first:
+      213: 21300102
+    second: additive_circle_01
+  - first:
+      213: 21300104
+    second: add_smoke_soft
+  - first:
+      213: 21300106
+    second: additive_particle03
+  - first:
+      213: 21300108
+    second: add_galaxy01
+  - first:
+      213: 21300110
+    second: add_bang01
+  - first:
+      213: 21300112
+    second: add_sparkle03
+  - first:
+      213: 21300114
+    second: additive_dot_01
+  - first:
+      213: 21300116
+    second: add_light_blast02
+  - first:
+      213: 21300118
+    second: add_swipe2
+  - first:
+      213: 21300120
+    second: add_grid
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 3
+  maxTextureSize: 1024
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 140
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: add_hammer
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 104
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e63d949a15a4952aef74aebecc697d7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_bang02
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 159
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: edea9228c75146b29bb7dac3882d44d8
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_barbeque
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 470
+        width: 78
+        height: 78
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -39, y: -39}
+        - {x: -39, y: 39}
+        - {x: 39, y: 39}
+        - {x: 39, y: -39}
+      physicsShape:
+      - - {x: -39, y: 39}
+        - {x: -39, y: -39}
+        - {x: 39, y: -39}
+        - {x: 39, y: 39}
+      tessellationDetail: 0
+      bones: []
+      spriteID: a23590af9f184d78888b29e9af1c4473
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_ring_01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 767
+        width: 256
+        height: 256
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -128, y: -128}
+        - {x: -128, y: 128}
+        - {x: 128, y: 128}
+        - {x: 128, y: -128}
+      physicsShape:
+      - - {x: -128, y: 128}
+        - {x: -128, y: -128}
+        - {x: 128, y: -128}
+        - {x: 128, y: 128}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6edabf20d3143859e01fd97f0f44a8d
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_fireworks01
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 171
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5adc51bb4164ee8aae0f60ae4c15ebf
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_smoke
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 29
+        width: 70
+        height: 68
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -34}
+        - {x: -35, y: 34}
+        - {x: 35, y: 34}
+        - {x: 35, y: -34}
+      physicsShape:
+      - - {x: -35, y: 34}
+        - {x: -35, y: -34}
+        - {x: 35, y: -34}
+        - {x: 35, y: 34}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d59cada4188d4d1f95bc580e66dcc086
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_round_02
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 617
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -30}
+        - {x: -30, y: 30}
+        - {x: 30, y: 30}
+        - {x: 30, y: -30}
+      physicsShape:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f0b08e592b64ecf81d8abd46f2b5675
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_particle04
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 42
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f06229fee54f4294d9e2b5fb257b4d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_sphere
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 32
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42fd6a9c45ac453c9a1eb0f1a2cc2ff4
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_sparkle02
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 599
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8d7140b33d4c86ad620056d71bfa99
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_spark_soft
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 99
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b82141e7c49413bb2ef3e03f1436df1
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_dot_02
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 599
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ae562d263a94e7d811f98995dd9b55a
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_dot_03
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 457
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce0484e539aa4c52913b359ac1000f98
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_smoke_03
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 373
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b989fc95e8714d46860995efefb8451a
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_line_01
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 57
+        width: 70
+        height: 40
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -20}
+        - {x: -35, y: 20}
+        - {x: 35, y: 20}
+        - {x: 35, y: -20}
+      physicsShape:
+      - - {x: -35, y: 20}
+        - {x: -35, y: -20}
+        - {x: 35, y: -20}
+        - {x: 35, y: 20}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5db0021461e48d78692f94615c7da61
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_coin
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 243
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbc5502a007b4aa094ec1016b84efbd7
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_sparkle
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 315
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cebcf783699c41adb31563862d99eeb9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_smoke_hard2
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 315
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 872dafcb7ebf45b3a619fdd997015fe5
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_hor2
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 171
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcdd727b16e7429aabac8db8e4839fcb
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_spark_hard
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 114
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24168c7a2bdb4caab7d3eb59c365340b
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_elec05
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 186
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -30}
+        - {x: -30, y: 30}
+        - {x: 30, y: 30}
+        - {x: 30, y: -30}
+      physicsShape:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd118365e55e4f2f9faacd827c12331f
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_jester
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 87
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b36b143136e4a6c8a1b91fcff53890d
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: particle_temp-add_circle_1
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 42
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3655030a354075b3e67116aff64e6e
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_cannon
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 243
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63281c925cb94a2da5787436c9632953
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_blast03
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 87
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d8000ad1e4e4b20a171a76fe4334286
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_ripple
+      rect:
+        serializedVersion: 2
+        x: 853
+        y: 186
+        width: 128
+        height: 128
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -64, y: -64}
+        - {x: -64, y: 64}
+        - {x: 64, y: 64}
+        - {x: 64, y: -64}
+      physicsShape:
+      - - {x: -64, y: 64}
+        - {x: -64, y: -64}
+        - {x: 64, y: -64}
+        - {x: 64, y: 64}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65161826592c434a8fea647e8357fcd6
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_smoke_hard
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 390
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79522c4ff92c4259b5e9352a318a83dc
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_hit_blast
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 515
+        width: 250
+        height: 250
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -125, y: -125}
+        - {x: -125, y: 125}
+        - {x: 125, y: 125}
+        - {x: 125, y: -125}
+      physicsShape:
+      - - {x: -125, y: 125}
+        - {x: -125, y: -125}
+        - {x: 125, y: -125}
+        - {x: 125, y: 125}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59e22da8e2124db08c85c6a218507cf8
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_blast04
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 599
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1bba90e7ade48a1874cc33fa625b1ea
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_lightline
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 883
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027db17a844d409fab3e06b4beb411db
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_spark_hard2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 231
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d864be8b0bfa46b3b39908dca1975ec2
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_fireplace01
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 243
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2433a723c04d50a461b07e0f12f33d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_swipe04
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 15
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb0f390fee42988fa9bf43d07c0850
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_button
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 550
+        width: 76
+        height: 36
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -38, y: -18}
+        - {x: -38, y: 18}
+        - {x: 38, y: 18}
+        - {x: 38, y: -18}
+      physicsShape:
+      - - {x: -38, y: 18}
+        - {x: -38, y: -18}
+        - {x: 38, y: -18}
+        - {x: 38, y: 18}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 261bac5b0c7e484da43c6dcaf07db6b7
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_elec03
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 555
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -30}
+        - {x: -30, y: 30}
+        - {x: 30, y: 30}
+        - {x: 30, y: -30}
+      physicsShape:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ae4ff0381974998a64f17fc8f7296e2
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_hor
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 171
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: c215b67bdbf34794a9b67b54a8eab059
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_sphere02
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 741
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6991b823bb743aaa1d6c4ea53636547
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_flame01
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 99
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a744908c87f4058a42d071a5220e3e1
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: new_elec04
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 493
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -30}
+        - {x: -30, y: 30}
+        - {x: 30, y: 30}
+        - {x: 30, y: -30}
+      physicsShape:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2daca9a0c96a42d3bdd90c809091e55c
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_blast01
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 883
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50808c78afb5467f9350ffa2da88e2b6
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_round_01
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 679
+        width: 60
+        height: 60
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -30, y: -30}
+        - {x: -30, y: 30}
+        - {x: 30, y: 30}
+        - {x: 30, y: -30}
+      physicsShape:
+      - - {x: -30, y: 30}
+        - {x: -30, y: -30}
+        - {x: 30, y: -30}
+        - {x: 30, y: 30}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44a964c40f4d4ffc8b374440a7b9e637
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_ver
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 171
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43575b09463b48739517b4538fcf4764
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_arrow
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 243
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52018ab1296747e982ca0eb8f0850c09
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_star_01
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 741
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03db441ff4ed41d2b78ff1a0e8596886
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_jet
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 87
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8a003dd9c24600a7253c0ee44c4613
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_fire_blast
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 588
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d57734ea72914d6e9b513b25208bff06
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_lightline02
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 741
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e69339e5fc8469c88dd03d1a2fb23a8
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_ring_02
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 883
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 424fbdf374d54f5aa07316a07033d3f1
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_fireplace_glow
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 532
+        width: 124
+        height: 54
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -62, y: -27}
+        - {x: -62, y: 27}
+        - {x: 62, y: 27}
+        - {x: 62, y: -27}
+      physicsShape:
+      - - {x: -62, y: 27}
+        - {x: -62, y: -27}
+        - {x: 62, y: -27}
+        - {x: 62, y: 27}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59a87908dd3544b49f9e0ad8c9f0876d
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_trace_sharp
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 99
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3e99aee9a0425aaac348f642520b3e
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_fireplace02
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 243
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a65eb174d5d4f70a6d2e75ea05b99c1
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_circle_01
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 99
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff68e7febcf4fe7924f9cae7f691c77
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_smoke_soft
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 248
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0a827f671d1452ebb2e864be418e82e
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_particle03
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 42
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6821f792c91461c8a4b1f1889125715
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_galaxy01
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 588
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046c21e1c38a4b4d946d1473cc5f83a5
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_bang01
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 159
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0419f93ffb51482cb60d5f8a17531e6b
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_sparkle03
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 883
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7cabe05ba7949bca0249765d97297ef
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: additive_dot_01
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 315
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb35c3a385e8402d96d7a466cc016e38
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_light_blast02
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 741
+        width: 140
+        height: 140
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -70, y: -70}
+        - {x: -70, y: 70}
+        - {x: 70, y: 70}
+        - {x: 70, y: -70}
+      physicsShape:
+      - - {x: -70, y: 70}
+        - {x: -70, y: -70}
+        - {x: 70, y: -70}
+        - {x: 70, y: 70}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f84a51b63024632a309d1dfa627b447
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_swipe2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 15
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4384e12e58f4706a9765b9b07ae432b
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: add_grid
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 104
+        width: 70
+        height: 70
+      alignment: 9
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: -35}
+        - {x: -35, y: 35}
+        - {x: 35, y: 35}
+        - {x: 35, y: -35}
+      physicsShape:
+      - - {x: -35, y: 35}
+        - {x: -35, y: -35}
+        - {x: 35, y: -35}
+        - {x: 35, y: 35}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dbc6f9762aa425d826bef5cef596e9d
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      add_arrow: 21300084
+      add_bang01: 21300110
+      add_bang02: 21300002
+      add_barbeque: 21300004
+      add_button: 21300066
+      add_cannon: 21300046
+      add_coin: 21300030
+      add_fire_blast: 21300090
+      add_fireplace01: 21300062
+      add_fireplace02: 21300100
+      add_fireplace_glow: 21300096
+      add_fireworks01: 21300008
+      add_galaxy01: 21300108
+      add_grid: 21300120
+      add_hammer: 21300000
+      add_hit_blast: 21300054
+      add_jester: 21300042
+      add_jet: 21300088
+      add_light_blast01: 21300078
+      add_light_blast02: 21300116
+      add_light_blast03: 21300048
+      add_light_blast04: 21300056
+      add_light_hor: 21300070
+      add_light_hor2: 21300036
+      add_light_ver: 21300082
+      add_lightline: 21300058
+      add_lightline02: 21300092
+      add_ripple: 21300050
+      add_smoke: 21300010
+      add_smoke_03: 21300026
+      add_smoke_hard: 21300052
+      add_smoke_hard2: 21300034
+      add_smoke_soft: 21300104
+      add_spark_hard: 21300038
+      add_spark_hard2: 21300060
+      add_spark_soft: 21300020
+      add_sparkle: 21300032
+      add_sparkle02: 21300018
+      add_sparkle03: 21300112
+      add_sphere: 21300016
+      add_sphere02: 21300072
+      add_swipe04: 21300064
+      add_swipe2: 21300118
+      add_trace_sharp: 21300098
+      additive_circle_01: 21300102
+      additive_dot_01: 21300114
+      additive_dot_02: 21300022
+      additive_dot_03: 21300024
+      additive_flame01: 21300074
+      additive_line_01: 21300028
+      additive_particle03: 21300106
+      additive_particle04: 21300014
+      additive_ring_01: 21300006
+      additive_ring_02: 21300094
+      additive_round_01: 21300080
+      additive_round_02: 21300012
+      additive_star_01: 21300086
+      new_elec03: 21300068
+      new_elec04: 21300076
+      new_elec05: 21300040
+      particle_temp-add_circle_1: 21300044
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

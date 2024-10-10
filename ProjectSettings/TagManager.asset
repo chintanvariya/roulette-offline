@@ -3,13 +3,7 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags:
-  - Button
-  - Chip
-  - AnchorRoullete
-  - ChipSelectUI
-  - AnchorSelectUI
-  - ChipContainer
+  tags: []
   layers:
   - Default
   - TransparentFX
@@ -46,19 +40,4 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
-    locked: 0
-  - name: Numeros
-    uniqueID: 365506729
-    locked: 0
-  - name: Fichas
-    uniqueID: 734226741
-    locked: 0
-  - name: Roullete
-    uniqueID: 948227913
-    locked: 0
-  - name: Shadow
-    uniqueID: 4281010685
-    locked: 0
-  - name: Reward
-    uniqueID: 2364036751
     locked: 0
