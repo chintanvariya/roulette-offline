@@ -17,7 +17,7 @@ namespace RouletteByFinix
         public Button leaveGameBtn, instructionBtn;
         UiManager uiManager;
 
-
+        public RectTransform menuSetting, gamePlaySetting;
 
         private void Start()
         {
@@ -52,15 +52,32 @@ namespace RouletteByFinix
             GoogleAdmob.instance.BannerShowAndHide(false);
         }
 
+
         public void SettingClick()
         {
             if (uiManager.isScreenMoving) return;
-            if(uiManager.wheel.isSpinning) return;
+            if (uiManager.wheel.isSpinning) return;
             settingBlackBG.SetActive(true);
-           // settingBGImage.sprite = uiManager.isUICanvasAtTop ? upperBG : bottomBg;
-           // settingBG.anchoredPosition = new Vector2(settingBG.anchoredPosition.x, uiManager.isUICanvasAtTop ? -14 : -122);
-           // settingBG.pivot = new Vector2(0.8f, uiManager.isUICanvasAtTop ? 0 : 1);
+            // settingBGImage.sprite = uiManager.isUICanvasAtTop ? upperBG : bottomBg;
+            // settingBG.anchoredPosition = new Vector2(settingBG.anchoredPosition.x, uiManager.isUICanvasAtTop ? -14 : -122);
+            // settingBG.pivot = new Vector2(0.8f, uiManager.isUICanvasAtTop ? 0 : 1);
             settingBG.localScale = Vector3.zero;
+
+            if (GameController.instance.gameState == GameState.DashBoard)
+            {
+                settingBG.anchorMin = menuSetting.anchorMin;
+                settingBG.anchorMax = menuSetting.anchorMax;
+                settingBG.pivot = menuSetting.pivot;
+                settingBG.position = menuSetting.position;
+            }
+            else
+            {
+                settingBG.anchorMin = gamePlaySetting.anchorMin;
+                settingBG.anchorMax = gamePlaySetting.anchorMax;
+                settingBG.pivot = gamePlaySetting.pivot;
+                settingBG.position = gamePlaySetting.position;
+            }
+
             settingBG.DOScale(Vector3.one, 0.2f).SetEase(Ease.Linear);
 
             if (GameController.instance.gameState == GameState.DashBoard) return;
