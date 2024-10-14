@@ -133,7 +133,7 @@ namespace RouletteByFinix
         GraphicRaycaster refGraphicRaycaser = null;
         private void ObjectHighlightAndOff(GameObject highLightObject, bool isMakeHighLight, int sortingOrder = 0, bool isGraphicRayNeed = false)
         {
-            Debug.Log($"ObjectHighlightAndOff {isMakeHighLight}  object name {highLightObject.name}");
+            //Debug.Log($"ObjectHighlightAndOff {isMakeHighLight}  object name {highLightObject.name}");
             refCanvas = GetOrAddComp.GetOrAddComponent<Canvas>(highLightObject);
             if (!isMakeHighLight)
             {

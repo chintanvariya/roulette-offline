@@ -55,13 +55,13 @@ namespace RouletteByFinix
             Debug.Log($"ShowBalanceText || isDoTextUsing {isDoTextUsing}  total balance {str}");
             if (isDoTextUsing)
             {
-                _ = balanceText.DOText($"<sprite=0> {str}", 1f, true, ScrambleMode.Numerals);
-                staticBalanceText.ForEach(sBText => _ = sBText.DOText($"<sprite=0> {str}", 1f, true, ScrambleMode.Numerals));
+                _ = balanceText.DOText($"{str}", 1f, true, ScrambleMode.Numerals);
+                staticBalanceText.ForEach(sBText => _ = sBText.DOText($"{str}", 1f, true, ScrambleMode.Numerals));
             }
             else
             {
-                balanceText.text = $"<sprite=0> {str}";
-                staticBalanceText.ForEach(sBText => sBText.text = $"<sprite=0> {str}");
+                balanceText.text = $"{str}";
+                staticBalanceText.ForEach(sBText => sBText.text = $"{str}");
             }
         }
 
@@ -399,8 +399,8 @@ namespace RouletteByFinix
         public void DashboardStatisticsDataShow()
         {
             totalGamePlayText.text = $"{spinNumberStaticData.dbStatistics.totalGame}";
-            winChipsText.text = $"<sprite=0> {spinNumberStaticData.dbStatistics.winChips}";
-            lossChipsText.text = $"<sprite=0> {spinNumberStaticData.dbStatistics.lossChips}";
+            winChipsText.text = $"  {spinNumberStaticData.dbStatistics.winChips}";
+            lossChipsText.text = $"  {spinNumberStaticData.dbStatistics.lossChips}";
         }
 
         public void InterstitialShow()

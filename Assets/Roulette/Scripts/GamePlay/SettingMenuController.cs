@@ -15,15 +15,12 @@ namespace RouletteByFinix
         public Sprite upperBG, bottomBg;
         public Button settingCloseBtn, settingBtn;
         public Button leaveGameBtn, instructionBtn;
-        UiManager uiManager;
+        public UiManager uiManager;
 
         public RectTransform menuSetting, gamePlaySetting;
 
         private void Start()
         {
-
-            uiManager = UiManager.Instance;
-
             leaveGameBtn.onClick.AddListener(delegate
             {
                 uiManager.ClickOnLeaveGameBtn();
