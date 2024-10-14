@@ -192,7 +192,7 @@ namespace RouletteByFinix
 
 
                 wheelPosition.Append(wheelMain.DOAnchorPos(new Vector2(0, 0), !isUICanvasAtTop ? 0.3f : 0.6f).SetEase(Ease.Linear)); ;
-                wheelPosition.Append(wheelMain.DOAnchorPos(!isUICanvasAtTop ? Vector2.zero : new Vector2(650, 478), !isUICanvasAtTop ? 0.6f : 0.3f).SetEase(Ease.Linear));
+                wheelPosition.Append(wheelMain.DOAnchorPos(!isUICanvasAtTop ? Vector2.zero : new Vector2(-598, 185), !isUICanvasAtTop ? 0.6f : 0.3f).SetEase(Ease.Linear));
 
                 wheelScale.Append(wheelMain.DOScale(Vector2.one * 0.5f, !isUICanvasAtTop ? 0.3f : 0.6f).SetEase(Ease.Linear));
                 wheelScale.Append(wheelMain.DOScale(!isUICanvasAtTop ? Vector2.one * 1.75f : Vector2.zero, !isUICanvasAtTop ? 0.6f : 0.3f).SetEase(Ease.OutFlash));
