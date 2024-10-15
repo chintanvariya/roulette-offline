@@ -19,6 +19,7 @@ namespace RouletteByFinix
 
         public RectTransform menuSetting, gamePlaySetting;
 
+        public GameObject leaveBtn, privacyPolicyBtn;
         private void Start()
         {
             leaveGameBtn.onClick.AddListener(delegate
@@ -60,12 +61,15 @@ namespace RouletteByFinix
             // settingBG.pivot = new Vector2(0.8f, uiManager.isUICanvasAtTop ? 0 : 1);
             settingBG.localScale = Vector3.zero;
 
+            privacyPolicyBtn.SetActive(false);
+            leaveBtn.SetActive(false);
             if (GameController.instance.gameState == GameState.DashBoard)
             {
                 settingBG.anchorMin = menuSetting.anchorMin;
                 settingBG.anchorMax = menuSetting.anchorMax;
                 settingBG.pivot = menuSetting.pivot;
                 settingBG.position = menuSetting.position;
+                privacyPolicyBtn.SetActive(true);
             }
             else
             {
@@ -73,6 +77,7 @@ namespace RouletteByFinix
                 settingBG.anchorMax = gamePlaySetting.anchorMax;
                 settingBG.pivot = gamePlaySetting.pivot;
                 settingBG.position = gamePlaySetting.position;
+                leaveBtn.SetActive(true);
             }
 
             settingBG.DOScale(Vector3.one, 0.2f).SetEase(Ease.Linear);

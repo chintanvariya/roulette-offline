@@ -352,7 +352,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 200.00003, y: -100}
+  m_AnchoredPosition: {x: 200, y: -100}
   m_SizeDelta: {x: 600, y: 710}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &506568463
@@ -714,9 +714,9 @@ MonoBehaviour:
       rewardedId: ca-app-pub-3940256099942544/1712485313
   realID:
     AndroidMode:
-      bannerId: ca-app-pub-9063095873678384/2674412568
-      interId: ca-app-pub-9063095873678384/9539203816
-      rewardedId: ca-app-pub-9063095873678384/8369592377
+      bannerId: ca-app-pub-5918737477932362/1484761690
+      interId: ca-app-pub-5918737477932362/1073698150
+      rewardedId: ca-app-pub-5918737477932362/2978006450
     IOSMode:
       bannerId: ca-app-pub-9063095873678384/7862536314
       interId: ca-app-pub-9063095873678384/4721561170
