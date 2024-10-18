@@ -1,6 +1,0 @@
-Password : RoyalRoulette
-ID : RoyalRoulette
-
-
-Test App ID : ca-app-pub-3940256099942544~3347511713
-Real App ID : ca-app-pub-9063095873678384~4719526943

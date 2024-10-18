@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "854332098834",
+    "project_id": "roulette-casino-d83e0",
+    "storage_bucket": "roulette-casino-d83e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:854332098834:android:bce6719f7574282820cbcb",
+        "android_client_info": {
+          "package_name": "com.chintugames.roulettecasino.roulettist"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDY1l0sGToxz_2Z7VsBBsfusHEZuk5l6SE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
