@@ -352,7 +352,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 0}
   m_AnchorMax: {x: 1, y: 0}
-  m_AnchoredPosition: {x: 200, y: -100}
+  m_AnchoredPosition: {x: 199.99994, y: -100}
   m_SizeDelta: {x: 600, y: 710}
   m_Pivot: {x: 1, y: 0}
 --- !u!114 &506568463
@@ -494,7 +494,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_text: 32%
+  m_text: 0%
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e58d5d10421f242f19058b2efacb1ef2, type: 2}
   m_sharedMaterial: {fileID: -4344210381167106289, guid: e58d5d10421f242f19058b2efacb1ef2, type: 2}
@@ -718,9 +718,9 @@ MonoBehaviour:
       interId: ca-app-pub-5918737477932362/1073698150
       rewardedId: ca-app-pub-5918737477932362/2978006450
     IOSMode:
-      bannerId: ca-app-pub-9063095873678384/7862536314
-      interId: ca-app-pub-9063095873678384/4721561170
-      rewardedId: ca-app-pub-9063095873678384/8301713538
+      bannerId: ca-app-pub-5918737477932362/8051838342
+      interId: ca-app-pub-5918737477932362/5442186567
+      rewardedId: ca-app-pub-5918737477932362/4129104891
 --- !u!4 &1018988697
 Transform:
   m_ObjectHideFlags: 0

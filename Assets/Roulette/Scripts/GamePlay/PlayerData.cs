@@ -43,7 +43,7 @@ namespace RouletteByFinix
         {
             if (!PlayerPrefs.HasKey("NewUser"))
             {
-                StaticData.totalBalance = 5000;
+                StaticData.totalBalance = 100000;
                 PlayerPrefs.SetInt("NewUser", 0);
             }
             else

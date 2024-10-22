@@ -4379,7 +4379,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 705, y: -325}
+  m_AnchoredPosition: {x: 585.00006, y: -325}
   m_SizeDelta: {x: 650, y: 650}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &104918800
@@ -8065,13 +8065,13 @@ RectTransform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 218175843}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children:
   - {fileID: 292802313}
-  m_Father: {fileID: 1179462362}
+  m_Father: {fileID: 1772031648}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
@@ -10362,8 +10362,8 @@ RectTransform:
   m_GameObject: {fileID: 292802312}
   m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 0.1, y: 0.1, z: 1}
-  m_ConstrainProportionsScale: 0
+  m_LocalScale: {x: 0.1, y: 0.1, z: 0.1}
+  m_ConstrainProportionsScale: 1
   m_Children:
   - {fileID: 2089208633}
   - {fileID: 1771734800}
@@ -43671,7 +43671,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 1}
   m_AnchorMax: {x: 0, y: 1}
-  m_AnchoredPosition: {x: 1455, y: -325}
+  m_AnchoredPosition: {x: 1335, y: -325}
   m_SizeDelta: {x: 650, y: 650}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1110250301
@@ -45601,7 +45601,6 @@ RectTransform:
   - {fileID: 163925130}
   - {fileID: 258067108}
   - {fileID: 1289395384}
-  - {fileID: 218175844}
   - {fileID: 1404483524}
   - {fileID: 1743026678}
   m_Father: {fileID: 1958739169}
@@ -67274,7 +67273,7 @@ GameObject:
   - component: {fileID: 1772031650}
   - component: {fileID: 1772031649}
   m_Layer: 5
-  m_Name: Panel
+  m_Name: Roulete BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -67297,6 +67296,7 @@ RectTransform:
   - {fileID: 1210439807}
   - {fileID: 1937786273}
   - {fileID: 431486799}
+  - {fileID: 218175844}
   m_Father: {fileID: 1321901925}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
@@ -69375,7 +69375,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 0, y: 0}
-  m_SizeDelta: {x: 255, y: 255}
+  m_SizeDelta: {x: 200, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1842249347
 MonoBehaviour:
@@ -69449,7 +69449,7 @@ CircleCollider2D:
   m_UsedByComposite: 0
   m_Offset: {x: 0, y: 0}
   serializedVersion: 2
-  m_Radius: 71.81
+  m_Radius: 100
 --- !u!1 &1843403799
 GameObject:
   m_ObjectHideFlags: 0

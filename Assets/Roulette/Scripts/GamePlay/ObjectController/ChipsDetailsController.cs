@@ -15,7 +15,7 @@ namespace RouletteByFinix
 
         public void ChipsAmountSet(int amount)
         {
-            chipsAmountText.text = $"{ amount}";
+            chipsAmountText.text = $"{amount}";
         }
 
         public void ChipsDataSet(Sprite chipsSprite)
@@ -45,12 +45,14 @@ namespace RouletteByFinix
 
             for (int i = 0; i < 8; i++)
             {
+                Vector3 startPosition = new Vector3(transform.position.x + UnityEngine.Random.Range(-0.7f, 0.7f), transform.position.y + UnityEngine.Random.Range(-0.7f, 0.7f), 0);
                 Transform clone = Instantiate(gameObject, gameObject.transform.parent).transform;
+                clone.transform.position = startPosition;
                 Canvas cloneCanvas = clone.gameObject.AddComponent<Canvas>();
                 cloneCanvas.overrideSorting = true;
                 cloneCanvas.sortingOrder = 11;
                 clone.DOScale(0.5f, 0.3f);
-                _ = clone.DOJump(target.position + new Vector3(-0.5f, 0.2f, 0), 0.25f, 1, 0.3f).OnComplete(() =>
+                _ = clone.DOJump(target.position + new Vector3(-0.5f, 0.2f, 0), -0.35f, 1, 0.45f).OnComplete(() =>
                 {
                     Destroy(clone.gameObject);
                 });
